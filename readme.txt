@@ -1,5 +1,3 @@
-# IZMOInterview
-
 The Program to analyze is written in main.py written in 3.11
 Python version and it uses the following libraries:
 -   pandas
